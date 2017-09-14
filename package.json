@@ -1,0 +1,25 @@
+{
+  "name": "FCC-File-Metadata-Service",
+  "version": "0.0.1",
+  "description": "Receives a file and returns its metadata",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.15.4",
+    "multer": "^1.3.0"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "url": ""
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
