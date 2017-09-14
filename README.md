@@ -1,2 +1,5 @@
-# FCC-File-Metadata-Microservice
-Upload a file and get its filesize back
+File Metadata Service
+=========================
+
+Made by [Glynnw](https://github.com/glynnw)
+-------------------
